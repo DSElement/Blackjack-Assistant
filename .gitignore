@@ -1,0 +1,23 @@
+# Gradle / Kotlin build output
+.gradle/
+.kotlin/
+build/
+
+# Machine-specific (Android Studio writes the SDK path here)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing keys and secrets: never commit these
+*.jks
+*.keystore
+keystore.properties
+
+# OS files
+.DS_Store
+Thumbs.db
