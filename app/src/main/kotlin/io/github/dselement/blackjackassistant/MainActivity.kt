@@ -1,4 +1,4 @@
-package io.github.dselement.bjhelper
+package io.github.dselement.blackjackassistant
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -17,7 +17,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
-import io.github.dselement.bjhelper.engine.EngineInfo
+import io.github.dselement.blackjackassistant.engine.EngineInfo
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

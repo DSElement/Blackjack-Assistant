@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "io.github.dselement.bjhelper"
+    namespace = "io.github.dselement.blackjackassistant"
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     defaultConfig {
         // Permanent ID on Google Play. Never change it after the first upload.
-        applicationId = "io.github.dselement.bjhelper"
+        applicationId = "io.github.dselement.blackjackassistant"
         minSdk = libs.versions.minSdk.get().toInt()
         targetSdk = libs.versions.targetSdk.get().toInt()
         versionCode = 1

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Blackjack Counting Helper</string>
+    <string name="app_name">Blackjack Assistant</string>
     <string name="engine_version">Engine %1$s</string>
 </resources>

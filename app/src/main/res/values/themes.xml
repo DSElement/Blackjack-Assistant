@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Window theme shown for a split second before Compose draws. The real theme lives in Compose (step A5). -->
-    <style name="Theme.BjHelper" parent="android:Theme.Material.NoActionBar" />
+    <style name="Theme.BlackjackAssistant" parent="android:Theme.Material.NoActionBar" />
 </resources>

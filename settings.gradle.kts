@@ -20,7 +20,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BlackjackCountingHelper"
+rootProject.name = "BlackjackAssistant"
 
 include(":app")
 include(":engine")
